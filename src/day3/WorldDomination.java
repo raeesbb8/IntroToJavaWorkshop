@@ -12,6 +12,8 @@ public class WorldDomination {
 		// 3. Otherwise, wish them good luck washing dishes.
   if (rule.equals("no")){ 
 	  JOptionPane.showMessageDialog(null, "good luck washing dishes");
+  if(rule.equals("maybe"));
+  JOptionPane.showMessageDialog(null, then );
   }
   }
 	}
