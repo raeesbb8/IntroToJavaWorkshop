@@ -13,7 +13,7 @@ public class WorldDomination {
   if (rule.equals("no")){ 
 	  JOptionPane.showMessageDialog(null, "good luck washing dishes");
   if(rule.equals("maybe"));
-  JOptionPane.showMessageDialog(null, then );
+  JOptionPane.showMessageDialog(null, "then" );
   }
   }
 	}
